@@ -1,1 +1,1 @@
-Training smile and non-smiling faces using dataset from <a href=https://github.com/hromi/SMILEsmileD</a>
+Training smile and non-smiling faces using dataset from https://github.com/hromi/SMILEsmileD
