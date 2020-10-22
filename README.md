@@ -28,4 +28,5 @@ $ python app-gui.py
 - Haar Feature Selection<br>
 - Mouth Aspect Ratio (MAR)<br>
 
+
 This is a project for Multimedia University course under TDS 3651 - Visual Information Processing.
