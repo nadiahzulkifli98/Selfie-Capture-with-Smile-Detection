@@ -28,6 +28,6 @@ $ python selfie-capture-smile-detection.py
 - Haar Feature Selection<br>
 - Mouth Aspect Ratio (MAR)<br><br>
 
-This is a project for Multimedia University course under TDS 3651 - Visual Information Processing.<br><br>
+This is a project for TDS 3651 - Visual Information Processing under Multimedia University courses.<br><br>
 
 Note: "shape_predictor_68_face_landmarks.dat" is not included.
