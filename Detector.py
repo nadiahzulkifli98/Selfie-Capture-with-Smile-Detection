@@ -4,6 +4,8 @@
 Created on Wed Oct 14 23:27:31 2020
 
 @author: nadiahzulkifli
+@author: sabrinasyazwani
+@author: puteriaisyah
 """
 
 import time
