@@ -23,7 +23,9 @@ $ python app-gui.py
 
 # APP GUI
 
-### Home Page <br>
-### Camera <br>
-### Haar Feature Selection<br>
-### Mouth Aspect Ratio (MAR)<br>
+- Home Page <br>
+- Camera <br>
+- Haar Feature Selection<br>
+- Mouth Aspect Ratio (MAR)<br>
+
+This is a project for Multimedia University course under TDS 3651 - Visual Information Processing.
