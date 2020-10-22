@@ -26,7 +26,8 @@ $ python app-gui.py
 - Home Page <br>
 - Camera <br>
 - Haar Feature Selection<br>
-- Mouth Aspect Ratio (MAR)<br>
+- Mouth Aspect Ratio (MAR)<br><br>
 
+This is a project for Multimedia University course under TDS 3651 - Visual Information Processing.<br><br>
 
-This is a project for Multimedia University course under TDS 3651 - Visual Information Processing.
+Note: "shape_predictor_68_face_landmarks.dat" is not included.
