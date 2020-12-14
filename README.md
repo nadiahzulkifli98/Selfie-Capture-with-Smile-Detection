@@ -33,13 +33,12 @@ $ python selfie-capture-smile-detection.py
 - Haar Feature Selection<br>
 - Mouth Aspect Ratio (MAR)<br><br>
 
-This is a project for TDS 3651 - Visual Information Processing under Multimedia University courses.<br><br>
-
 AUTHORS:
 
 - Nur Sabrina Syazwani binti Mazlan<br>
 - Nurul Nadiah binti Zulkifli<br>
 - Puteri Aisyah binti Megat Muzafar<br>
+
 INSTITUTION: Multimedia University<br><br>
 
 # 1. ABSTRACT
