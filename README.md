@@ -37,9 +37,9 @@ This is a project for TDS 3651 - Visual Information Processing under Multimedia 
 
 AUTHORS:
 
-Nur Sabrina Syazwani binti Mazlan
-Nurul Nadiah binti Zulkifli
-Puteri Aisyah binti Megat Muzafar
+- Nur Sabrina Syazwani binti Mazlan<br>
+- Nurul Nadiah binti Zulkifli<br>
+- Puteri Aisyah binti Megat Muzafar<br>
 INSTITUTION: Multimedia University<br><br>
 
 # 1. ABSTRACT
